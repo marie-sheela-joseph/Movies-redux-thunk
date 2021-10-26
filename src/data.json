@@ -13,8 +13,8 @@
       "id": 2,
       "title": "Midnight Sun",
       "category": "Comedy",
-      "likes": 4,
-      "dislikes": 2,
+      "likes": 2,
+      "dislikes": 0,
       "image": "/images/midnight-sun.jpg",
       "isLiked": false
     },
