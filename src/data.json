@@ -1,0 +1,94 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Oceans 8",
+      "category": "Comedy",
+      "likes": 4,
+      "dislikes": 1,
+      "image": "/images/ocean8.jpg",
+      "isLiked": false
+    },
+    {
+      "id": 2,
+      "title": "Midnight Sun",
+      "category": "Comedy",
+      "likes": 4,
+      "dislikes": 2,
+      "image": "/images/midnight-sun.jpg",
+      "isLiked": false
+    },
+    {
+      "id": 3,
+      "title": "Indestructibles 2",
+      "category": "Animation",
+      "likes": 3,
+      "dislikes": 1,
+      "image": "/images/indestructibles2.jpg",
+      "isLiked": false
+    },
+    {
+      "id": 4,
+      "title": "A quiet place",
+      "category": "Thriller",
+      "likes": 6,
+      "dislikes": 6,
+      "image": "/images/a-quiet-place.jpg",
+      "isLiked": false
+    },
+    {
+      "id": 5,
+      "title": "Creed II",
+      "category": "Drame",
+      "likes": 16,
+      "dislikes": 2,
+      "image": "/images/creed2.jpg",
+      "isLiked": false
+    },
+    {
+      "id": 6,
+      "title": "Pulp Fiction",
+      "category": "Thriller",
+      "likes": 11,
+      "dislikes": 3,
+      "image": "/images/pulp-fiction.jpg",
+      "isLiked": false
+    },
+    {
+      "id": 7,
+      "title": "The guilty",
+      "category": "Thriller",
+      "likes": 12333,
+      "dislikes": 32,
+      "image": "/images/the-guilty.jpg",
+      "isLiked": false
+    },
+    {
+      "id": 8,
+      "title": "Seven",
+      "category": "Thriller",
+      "likes": 2,
+      "dislikes": 1,
+      "image": "/images/seven.jpg",
+      "isLiked": false
+    },
+    {
+      "id": 9,
+      "title": "Inception",
+      "category": "Thriller",
+      "likes": 2,
+      "dislikes": 1,
+      "image": "/images/inception.jpg",
+      "isLiked": false
+    },
+    {
+      "id": 10,
+      "title": "Gone Girl",
+      "category": "Thriller",
+      "likes": 22,
+      "dislikes": 12,
+      "image": "/images/gone-girl.jpg",
+      "isLiked": true
+    }
+  ]
+}
