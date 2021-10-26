@@ -1,3 +1,8 @@
+Data loading:
+In src folder, go to cmd prompt, run the below command
+json-server data.json --port 4000 --watch
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
